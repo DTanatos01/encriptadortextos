@@ -93,6 +93,7 @@ div.header {
 
 .restCaptura {
     display: none;
+    margin: auto;
 }
 
 .capturador::placeholder {
